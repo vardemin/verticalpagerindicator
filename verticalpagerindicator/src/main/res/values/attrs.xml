@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerticalPagerIndicator">
+        <attr name="vpi_paddingHorizontal" format="dimension" />
+        <!--<attr name="vpi_paddingSelected" format="dimension" />
+        <attr name="vpi_paddingSecondary" format="dimension" />-->
+        <attr name="vpi_colorSelected" format="color" />
+        <attr name="vpi_colorSecondary" format="color" />
+        <attr name="vpi_duration" format="integer" />
+        <attr name="vpi_gravity" format="enum">
+            <enum name="fill" value="0" />
+            <enum name="center" value="1" />
+        </attr>
+        <attr name="vpi_spacing" format="dimension" />
+        <attr name="vpi_colorText" format="color" />
+        <attr name="vpi_fontText" format="reference" />
+        <attr name="vpi_sizeText" format="dimension" />
+    </declare-styleable>
+</resources>
