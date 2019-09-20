@@ -28,7 +28,7 @@ Then add the following line
 
 ``` gradle
 dependencies {
-  implementation 'com.github.vardemin.verticalpagerindicator:verticalpagerindicator:0.1.0'
+  implementation 'com.github.vardemin:verticalpagerindicator:v0.1.0'
 }
 ```
 
